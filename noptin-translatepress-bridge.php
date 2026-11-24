@@ -4,6 +4,7 @@
  * Description: Propojuje Noptin a TranslatePress. Ukládá jazyk odběratele při registraci i přihlášení k odběru a překládá odchozí e-maily včetně sdílené cache.
  * Version: 1.2.3
  * Author: Mystriks.eu
+ * Author URI:  https://mystriks.eu
  * Text Domain: mystriks.eu
  */
 
